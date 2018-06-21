@@ -1,0 +1,19 @@
+{
+  "name": "chat1",
+  "version": "1.0.0",
+  "description": "simple chat app",
+  "main": " server.js",
+  "scripts": {
+     "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chat_app1"
+  },
+  "author": "prasu",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.0.10",
+    "socket.io": "^2.1.1"
+  }
+}
